@@ -4,7 +4,7 @@
 #
 Name     : pyls-spyder
 Version  : 0.3.2
-Release  : 9
+Release  : 10
 URL      : https://files.pythonhosted.org/packages/ed/95/9ebf8f8e8e5efb32ceb3275b080fd3488a19ff07e35e4b97f621dfacdfa6/pyls-spyder-0.3.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ed/95/9ebf8f8e8e5efb32ceb3275b080fd3488a19ff07e35e4b97f621dfacdfa6/pyls-spyder-0.3.2.tar.gz
 Summary  : Spyder extensions for the python-language-server
