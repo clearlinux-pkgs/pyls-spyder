@@ -1,5 +1,5 @@
 PKG_NAME := pyls-spyder
-URL = https://files.pythonhosted.org/packages/ed/95/9ebf8f8e8e5efb32ceb3275b080fd3488a19ff07e35e4b97f621dfacdfa6/pyls-spyder-0.3.2.tar.gz
+URL = https://files.pythonhosted.org/packages/94/e0/17ebfbc3cdd9d2bed54f4904672d8c766b5f48c930d699e20566061b6720/pyls-spyder-0.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
