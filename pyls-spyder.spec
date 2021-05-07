@@ -4,7 +4,7 @@
 #
 Name     : pyls-spyder
 Version  : 0.4.0
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/94/e0/17ebfbc3cdd9d2bed54f4904672d8c766b5f48c930d699e20566061b6720/pyls-spyder-0.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/94/e0/17ebfbc3cdd9d2bed54f4904672d8c766b5f48c930d699e20566061b6720/pyls-spyder-0.4.0.tar.gz
 Summary  : Spyder extensions for the python-lsp-server
